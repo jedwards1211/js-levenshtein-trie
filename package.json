@@ -1,0 +1,23 @@
+{
+  "name": "levenshtein-trie",
+  "version": "1.0.0",
+  "description": "a Trie that supports fast Levenshtein distance searching",
+  "main": "Trie.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedwards1211/levenshtein-trie.git"
+  },
+  "keywords": [
+    "levenshtein",
+    "trie",
+    "fuzzy",
+    "keyword",
+    "search"
+  ],
+  "author": "Andy Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedwards1211/levenshtein-trie/issues"
+  },
+  "homepage": "https://github.com/jedwards1211/levenshtein-trie#readme"
+}
