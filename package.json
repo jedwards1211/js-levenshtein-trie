@@ -1,11 +1,11 @@
 {
-  "name": "levenshtein-trie",
+  "name": "js-levenshtein-trie",
   "version": "1.0.0",
-  "description": "a Trie that supports fast Levenshtein distance searching",
+  "description": "a JS Trie that supports fast Levenshtein distance searching",
   "main": "Trie.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jedwards1211/levenshtein-trie.git"
+    "url": "git+https://github.com/jedwards1211/js-levenshtein-trie.git"
   },
   "keywords": [
     "levenshtein",
@@ -17,7 +17,7 @@
   "author": "Andy Edwards",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jedwards1211/levenshtein-trie/issues"
+    "url": "https://github.com/jedwards1211/js-levenshtein-trie/issues"
   },
-  "homepage": "https://github.com/jedwards1211/levenshtein-trie#readme"
+  "homepage": "https://github.com/jedwards1211/js-levenshtein-trie#readme"
 }
